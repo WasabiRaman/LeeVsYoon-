@@ -2,16 +2,10 @@
 
 파이썬 대충 깔고
 
-'''shell
+```shell
 pip install bs4
-'''
-
-
-'''shell
 pip install selenium
-'''
-
-
-'''shell
 python lvsy.py
-'''
+```
+
+ㄱㄱ
